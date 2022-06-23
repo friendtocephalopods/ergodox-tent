@@ -1,5 +1,7 @@
 ## ergodox-tent
 
+![design](img/wireframe.JPG)
+
 I love my ergodox, and I've come to appreciate the ergonomics of tenting thanks to [Litster's ergodox tent stand](https://github.com/adereth/ergodox-tent). That stand was designed for the rubber feet to settle in some holes on the top of the stand, which worked pretty great while the adhesive on the rubber feet is strong, but eventually the adhesive tended to slip and my keyboard would slip around.
 
 This tent has physical supports, and with rubber feet on the bottom, it's much more steady than I've ever found the other one to be. I've also added a higher tent angle (20 degrees) than the adereth one.
